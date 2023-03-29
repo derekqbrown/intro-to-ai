@@ -7,3 +7,5 @@ The course is broken into three parts:
 3. Creation of a project proposal for a machine learning model
 
 To utilize the files in this repository will require logging into Pandorabots website for part 1, downloading the CoppeliaSim for part 2, and a program that can view Word documents for part three.
+
+Also included is a demo video for part 2, showing the bot navigating and reacting to the environment
